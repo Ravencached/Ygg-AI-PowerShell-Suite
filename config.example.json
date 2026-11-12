@@ -1,0 +1,17 @@
+{
+  "ProjectsPath": null,
+  "SharePath": null,
+  "WindowTitle": "PowerShell 7",
+  "AdminWindowTitle": "PowerShell 7 | Administrator",
+  "UseGemini": true,
+  "GeminiModel": "gemini-3.1-flash-lite",
+  "GeminiApiKeyEnvVar": "GEMINI_API_KEY",
+  "GeminiSecretName": "GeminiApiKey",
+  "GeminiEndpoint": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+  "LocalModel": "why-small",
+  "LocalEndpoint": "http://127.0.0.1:1234/v1/chat/completions",
+  "GeminiTimeoutSeconds": 20,
+  "LocalTimeoutSeconds": 60,
+  "QuickMaxTokens": 192,
+  "LongMaxTokens": 384
+}
